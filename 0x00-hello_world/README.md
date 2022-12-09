@@ -1,1 +1,1 @@
-Hello world in C - First C programming project
+The first C repo in ALX Low level Programing
