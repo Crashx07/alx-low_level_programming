@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
  * main - main block
- * puts output text
+ *
+ *puts output text
+ *
  * return: always return 0 (success)
  */
 int main(void)
