@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - main bloack
- *return: 0
+ * main - main block
+ * puts output text
+ * return: always return 0 (success)
  */
 int main(void)
 {
