@@ -2,9 +2,7 @@
 /**
  * main - main block
  *
- *puts output text
- *
- * return: always return 0 (success)
+ *return: 0
  */
 int main(void)
 {
