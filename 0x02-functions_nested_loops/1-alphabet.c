@@ -5,7 +5,7 @@
  * Description - Outputs the alphabet
  * Return - 0
  */
-int main(void)
+void print_alphabet(void)
 {
 	int n = 'a';
 
