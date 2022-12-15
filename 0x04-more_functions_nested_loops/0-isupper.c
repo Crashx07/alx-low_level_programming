@@ -6,11 +6,9 @@
  */
 int _isupper(int c)
 {
-	int y;
 
-	y = isupper(c);
 
-	if (y == '1')
+	if (isupper(c))
 	{
 		return (1);
 	}
