@@ -7,7 +7,7 @@
 int main(void)
 {
 	char *printer = "_putchar";
-	
+
 	while (*printer)
 	{
 		putchar(*printer);
