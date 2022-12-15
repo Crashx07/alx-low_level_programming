@@ -9,7 +9,8 @@ int _isupper(int c)
 	int y;
 
 	y = isupper(c);
-	if (y == 1)
+
+	if (y == '1')
 	{
 		return (1);
 	}
