@@ -3,6 +3,7 @@
 /**
  * _islower - function that checks of a letter
  * is lower or upper case
+ * @c: this is a variable that holds a letter
  * Return: int 1 = true or int 0 = false
  */
 int _islower(int c)
