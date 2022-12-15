@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * print_sign: Checks the value of input
+ * print_sign - Checks the value of input
  * @n: stores single character
  * Return: -1, 1, or 0 depending on the value inputted
  */
