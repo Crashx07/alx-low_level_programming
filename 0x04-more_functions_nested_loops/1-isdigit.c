@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * _isdigit - checks if a char is a number
- * @C: input for thevar
- * Return: return 1 if c is digit and 0 if not
+ * _isdigit -  a function that checks if a char is a number
+ * @c: input
+ * Return: 1 if c is a digit, 0 otherwise
  */
 int _isdigit(int c)
 {
